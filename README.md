@@ -1,11 +1,9 @@
 # Recommendify.AI
 
----
-
 # Project Structure
 
 RECOMMENDIFY AI/
-├── agents_modules/
+├── agents_modules/                       
 │   ├── __init__.py
 │   ├── product_checker.py
 │   ├── relevance_filter.py
@@ -14,10 +12,10 @@ RECOMMENDIFY AI/
 │   ├── transcript_summarizer.py
 │   ├── verdict_aggregator.py
 │   └── youtube_searcher.py
-├── .env
-├── app.py
-├── graph.py
-├── main.py
-├── README.md
-├── requirements.txt
-└── RUN ME.bat
+├── .env                                  
+├── app.py                                
+├── graph.py                              
+├── main.py                               
+├── README.md                             
+├── requirements.txt                      
+└── RUN ME.bat                            
