@@ -1,12 +1,12 @@
 # ⚡ Recommendify.AI — An AI-Powered YouTube Product Review Analyzer
 
-## 👉 **[Skip the scroll — get instant product verdicts with AI!](https://github.com/Rayan-Farhan/Recommendify.AI)**
+## 👉 **[Skip the scroll and get instant product verdicts with the power of AI!](https://github.com/Rayan-Farhan/Recommendify.AI)**
 
 This **AI-powered product review analyzer** helps you decide whether to buy a product by analyzing the most relevant **YouTube reviews** — all through intelligent **AI agents** and **LLMs**!
 
 Tired of watching 10+ videos just to figure out if a product is worth it? Let Recommendify.AI do the heavy lifting in seconds.
 
-
+https://github.com/user-attachments/assets/8fe0d675-7bd6-48cf-8b7c-3b0e78170643
 
 ---
 
@@ -35,14 +35,14 @@ The tool workflow is powered by a sequence of intelligent agents:
 ### 3. Transcript Fetching
 - Automatically fetches video transcripts using the `youtube-transcript-api`.
 
-### 4. Relevance Filtering (AI Agent)
+### 4. Relevance Filtering
 - Uses a **Groq + LLaMA3** agent to detect if the video actually reviews the product.
 - Filters out irrelevant or clickbait videos.
 
-### 5. Summarization (AI Agent)
+### 5. Summarization
 - Another LLM agent reads the transcript and extracts a **list of pros and cons**.
 
-### 6. Verdict Aggregation (AI Agent)
+### 6. Verdict Aggregation
 - A final expert agent analyzes all summaries and outputs:
   - **Recommendation**: Recommended or Not Recommended
   - **Reason**: Concise explanation based on review sentiment
@@ -78,7 +78,7 @@ Recommendify.AI/
 
 ```bash
 git clone https://github.com/Rayan-Farhan/Recommendify.AI
-cd recommendify.ai
+cd Recommendify.AI
 ```
 
 ### 2. Install Dependencies
