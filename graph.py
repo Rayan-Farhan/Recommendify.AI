@@ -71,7 +71,6 @@ def run_verdict(state: GraphState) -> GraphState:
     return state
 
 
-# Build LangGraph
 def build_graph():
     workflow = StateGraph(GraphState)
 
